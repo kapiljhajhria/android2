@@ -669,5 +669,11 @@
   <include name="snippets/lineage.xml" />
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
+  
+     <!-- Remove unused los repos -->
+<include name="snippets/remove.xml" />
+
+ <!-- Add all los+ stuff -->
+<include name="snippets/stuff.xml" />
 
 </manifest>

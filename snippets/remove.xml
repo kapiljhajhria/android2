@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device repos -->
+
+
+  <!-- External repos -->
+
+  <!-- Framework repos -->
+  <remove-project name="LineageOS/android_frameworks_base" />
+
+  <!-- General repos -->
+
+  <!-- Hardware repos -->
+
+  <!-- Packages repos -->
+  <remove-project name="LineageOS/android_packages_apps_Settings" />
+  <remove-project name="LineageOS/android_packages_apps_Dialer" />
+  <remove-project name="LineageOS/android_packages_services_Telecomm" />
+  <remove-project name="LineageOS/android_packages_apps_Camera2" />
+  <!-- Prebuilts -->
+
+
+  <!-- System repos -->
+
+
+</manifest>
