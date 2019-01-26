@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <remote name="gt"
-          fetch="https://github.com/" />
 	<remote name="gitlab"
           fetch="https://gitlab.com/" />
 
   <!-- SmartNav -->
   <project path="packages/apps/Settings" name="kapiljhajhria/android_packages_apps_Settings" 
-remote="gt" revision="lineage-16.0" />
+remote="github" revision="lineage-16.0" />
 	<project path="packages/apps/Dialer" name="kapiljhajhria/android_packages_apps_Dialer" 
-remote="gt" revision="lineage-16.0" />
+remote="github" revision="lineage-16.0" />
   <project path="frameworks/base" 
-name="kapiljhajhria/android_frameworks_base" remote="gt" revision="lineage-16.0" />
+name="kapiljhajhria/android_frameworks_base" remote="github" revision="lineage-16.0" />
   <project path="packages/services/Telecomm" 
-name="kapiljhajhria/android_packages_services_Telecomm" remote="gt" revision="lineage-16.0" />
+name="kapiljhajhria/android_packages_services_Telecomm" remote="github" revision="lineage-16.0" />
  
   <!-- Extras -->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" 
-remote="gt" revision="lineage-16.0"/>
+remote="github" revision="lineage-16.0"/>
   <project path="vendor/MiuiCamera" name="kapiljhajhria/vendor_MiuiCamera" 
-remote="gt" revision="pie-whyred"/>
+remote="github" revision="pie-whyred"/>
   <!-- //  <project path="vendor/xiaomi/Gcam" // -->
 <!--  //name="kapiljhajhria/vendor_xiaomi_gcam" remote="gitlab" revision="master"/> // -->
  <!-- My device tree -->
    <project path="vendor/xiaomi/whyred" name="kapiljhajhria/android_vendor_xiaomi_whyred" 
-remote="gt" revision="lineage-16.0"/>
+remote="github" revision="lineage-16.0"/>
    <project path="kernel/xiaomi/whyred" name="kapiljhajhria/android_kernel_xiaomi_whyred" 
-remote="gt" revision="lineage-16.0"/>
+remote="github" revision="lineage-16.0"/>
    <project path="device/xiaomi/whyred" name="kapiljhajhria/android_device_xiaomi_whyred" 
-remote="gt" revision="lineage-16.0"/>
+remote="github" revision="lineage-16.0"/>
    <project path="prebuilts/clang/host/linux-x86/clang-8.0.7" name="Bladeyy/prebuilts_clang" 
-remote="gt" revision="clang-8.0.7"/>
+remote="github" revision="clang-8.0.7"/>
 
 <!-- FDE -->
  <!--   <project path="vendor/qcom/opensource/cryptfs_hw" name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" 
-remote="gt" revision="lineage-16.0"/>  -->
+remote="github" revision="lineage-16.0"/>  -->
   
 
 </manifest>
