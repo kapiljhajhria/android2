@@ -12,6 +12,8 @@ remote="github" revision="lineage-16.0" />
 name="kapiljhajhria/android_frameworks_base" remote="github" revision="lineage-16.0" />
   <project path="packages/services/Telecomm" 
 name="kapiljhajhria/android_packages_services_Telecomm" remote="github" revision="lineage-16.0" />
+<project path="packages/apps/Updater" 
+name="kapiljhajhria/android_packages_apps_Updater" remote="github" revision="lineage-16.0" />
  
   <!-- Extras -->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" 
