@@ -29,6 +29,8 @@ remote="github" revision="lineage-16.0"/>
 remote="github" revision="mkp"/>
    <project path="device/xiaomi/whyred" name="kapiljhajhria/android_device_xiaomi_whyred" 
 remote="github" revision="lineage-16.0"/>
+   <project path="packages/overlays/Lineage" name="kapiljhajhria/android_packages_overlays_Lineage" 
+remote="github" revision="lineage-16.0"/>
    <!--  <project path="prebuilts/clang/host/linux-x86/clang-8.0.7" name="Bladeyy/prebuilts_clang" 
 remote="github" revision="clang-8.0.7"/>  -->
 

@@ -19,6 +19,7 @@
   <remove-project name="LineageOS/android_packages_services_Telecomm" />
   <remove-project name="LineageOS/android_packages_apps_Camera2" />
   <remove-project name="LineageOS/android_packages_apps_Updater" />
+  <remove-project name="LineageOS/android_packages_overlays_Lineage" />
   <!-- Prebuilts -->
 
 
